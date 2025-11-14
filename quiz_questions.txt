@@ -1,0 +1,131 @@
+MC
+What is the capital of France?
+Paris
+London
+Berlin
+Rome
+1
+
+MC
+Which planet is known as the Red Planet?
+Earth
+Mars
+Jupiter
+Venus
+2
+
+MC
+What is the only U.S. state that can be typed in using only one row of standard "QWERTY" keyboard?
+Indiana
+Ohio
+Washington
+Alaska
+4
+
+MC
+How many cards are in a standard deck of playing cards?
+54
+55
+52
+50
+3
+
+MC
+What is James Bond's code name?
+001
+005
+008
+007
+4
+
+MC
+How many pounds are in a ton?
+1000
+500
+2500
+2000
+4
+
+MC
+Lightning McQueen and Sally Carrera are characters from what movie?
+Frozen
+Toy Story
+Cars
+Dumbo
+3
+
+KEY
+What is the fifth sign of the zodiac?
+Leo
+
+KEY
+The first iPhone was released in what year?
+2007
+
+KEY
+Who wrote "Hamlet"?
+Shakespeare
+
+KEY
+Born Robert Weston Smith, this famous radio disc jockey in the 1970s was more commonly known by what name?
+Wolfman Jack
+
+KEY
+Which author penned the apocalyptic novel "The Stand"?
+Stephen King
+
+KEY
+How many billboard #1 hits did Elvis have?
+18
+
+KEY
+How many inches in a foot?
+12
+
+TF
+The “Treaty of Paris” ended which war?
+War of 1812
+True
+False
+2
+
+TF
+Who invented the cotton gin?
+Eli Whitney
+True
+False
+1
+
+TF
+The first iPod was released in 2004?
+True
+False
+2
+
+TF
+What was the first state?
+New York
+True
+False
+2
+
+TF
+How many moons does Neptune have?
+14
+True
+False
+1
+
+TF
+What is the Grinch's dog's name?
+Buddy
+True
+False
+2
+
+TF
+Siamese, Maine Coon, tabby, ragdoll, calico and shorthair are all types of what?
+Foxes
+True
+False
+2
